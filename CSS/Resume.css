@@ -1,0 +1,88 @@
+/*---------------------------Global----------------------------------------------------------------------------*/
+body{
+	font-family: "Serif Fonts",Georgia, serif;
+	font-size:15px;
+	line-height:1.5;
+	padding:0;
+	margin:0;
+	background: url('../img/Backgound/Backgound.jpg') no-repeat;
+	background-size: 100%;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+.Container{
+	margin: auto;
+	width:80%;
+}
+
+/*---------------------------Global----------------------------------------------------------------------------*/
+
+/*---------------------------Header----------------------------------------------------------------------------*/
+header{
+	padding-top:20px;
+	min-height:30px;
+}
+header a{ 
+	color: white;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size:16px;
+}
+
+header li{
+	display:inline;
+	padding: 0 20px 0 20px; 
+	float:left;
+}
+
+header nav{
+	float:right;
+	margin-top: 15px;
+}
+
+header a:hover{
+	color: gray;
+}
+/*---------------------------Header----------------------------------------------------------------------------*/
+/*---------------------------Resume----------------------------------------------------------------------------*/
+#res{
+	float:center;
+	margin-left:600px;
+	background-color:black;
+}
+/*---------------------------Resume----------------------------------------------------------------------------*/
+
+/*---------------------------Footer----------------------------------------------------------------------------*/
+#footer{
+	color:white;
+	font-size: 20px; 
+	position: relative;
+	height:50px;
+	margin-top: 100px;
+	clear:both;
+	
+	margin-right:30px;
+}
+#footer .Follow p{
+	float:right;
+	margin-right:130px;
+}
+
+#footer .Facebook img{
+	float:right;
+	margin-right:-190px;
+	width:50px;
+	height:50px;
+	border: 1px solid #ffffff;
+}
+
+#footer .Gmail img{
+	float:right;
+	margin-right:-250px;
+	width:50px;
+	height:50px;
+	border: 1px solid #ffffff;
+}
+/*---------------------------Footer----------------------------------------------------------------------------*/

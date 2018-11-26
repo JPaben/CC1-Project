@@ -1,0 +1,176 @@
+/*---------------------------Global----------------------------------------------------------------------------*/
+body{
+	font-family: "Serif Fonts",Georgia, serif;
+	font-size:15px;
+	line-height:1.5;
+	padding:0;
+	margin:0;
+	background: url('../img/Backgound/UC logooo.jpg') no-repeat;
+	background-size: 100%;
+	background-color:black;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+.Container{
+	margin: auto;
+	width:80%;
+}
+
+/*---------------------------Global----------------------------------------------------------------------------*/
+
+/*---------------------------Header----------------------------------------------------------------------------*/
+header{
+	padding-top:20px;
+	min-height:30px;
+}
+header a{ 
+	color: white;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size:16px;
+}
+
+header li{
+	display:inline;
+	padding: 0 20px 0 20px; 
+	float:left;
+}
+
+header nav{
+	float:right;
+	margin-top: 15px;
+}
+
+header a:hover{
+	color: gray;
+}
+/*---------------------------Header----------------------------------------------------------------------------*/
+/*---------------------------School name----------------------------------------------------------------------------*/
+#BoxProjects{
+	float: center;
+	margin-top:10px;
+}
+#BoxProjects .Uni h1{
+	float:center;
+	margin-left:360px;
+	margin-top:485px;
+	color:white;
+	font-size:45px;
+}
+#BoxProjects .Ofthe h1{
+	float:center;
+	margin-left:618px;
+	margin-top:-85px;
+	color:white;
+	font-size:30px;
+}
+#BoxProjects .Cordi h1{
+	float:center;
+	margin-left:718px;
+	margin-top:-90px;
+	color:white;
+	font-size:45px;
+}
+/*---------------------------School name----------------------------------------------------------------------------*/
+/*---------------------------AVP----------------------------------------------------------------------------*/
+#AVP{
+	color:white;
+	float: center;
+}
+
+#AVP .Video{
+	float: center;
+	
+	width: 825px;
+	height: 400px;
+	border: 1px solid #ffffff;
+	background-color: #00661a;/*#101010;*/
+	margin: 100px;
+	margin-top:-20px;
+	margin-left:270px;
+	padding: 13px;
+	box-sizing: border-box;
+}
+#AVP .Video video{
+	width: 810px;
+	height: 375px;
+	float: center;
+	margin-left:-8px;
+	
+}
+/*---------------------------AVP----------------------------------------------------------------------------*/
+/*---------------------------UC Hymm----------------------------------------------------------------------------*/
+#Hymm{
+	color:white;
+	float: center;
+}
+#Hymm .HymmLyrics{
+	width: 550px;
+	height: 730px;
+	border: 1px solid #ffffff;
+	background-color: #00661a;
+	margin: 100px;
+	margin-top:-40px;
+	padding: 13px;
+	box-sizing: border-box;
+	text-align:center;
+}
+#Hymm .HymmLyrics h1{
+	font-size:35px;
+	margin-top:-10px;
+	border-bottom: black 3px solid;
+	
+}
+#Hymm .HymmLyrics p1{
+	font-size:20px;
+}
+#Hymm .HymmLyrics audio{
+	margin-top:30px;
+}
+/*---------------------------UC Hymm----------------------------------------------------------------------------*/
+/*---------------------------UC History----------------------------------------------------------------------------*/
+#UCHistory{
+	color:white;
+	float: right;
+}
+#UCHistory .Title{
+	font-size:30px;
+	margin-top:-865px;
+	margin-left: 100px;
+}
+#UCHistory .History{
+	width: 550px;
+	height: 300px;
+	border: 1px solid #ffffff;
+	background-color: #00661a;
+	margin: 100px;
+	margin-top: -50px;
+	padding: 13px;
+	box-sizing: border-box;
+	text-align:center;
+}
+/*---------------------------UC History----------------------------------------------------------------------------*/
+/*---------------------------CITCS History----------------------------------------------------------------------------*/
+#CHistory{
+	color:white;
+	float: right;
+}
+#CHistory .Title{
+	font-size:30px;
+	margin-top:-493px;
+	margin-left: 100px;
+}
+#CHistory .History{
+	width: 550px;
+	height: 300px;
+	border: 1px solid #ffffff;
+	background-color: #00661a;
+	margin: 100px;
+	margin-top: -50px;
+	padding: 13px;
+	box-sizing: border-box;
+	text-align:center;
+}
+/*---------------------------CITCS History----------------------------------------------------------------------------*/

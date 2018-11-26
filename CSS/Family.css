@@ -1,0 +1,235 @@
+/*---------------------------Global----------------------------------------------------------------------------*/
+body{
+	font-family: "Serif Fonts",Georgia, serif;
+	font-size:15px;
+	line-height:1.5;
+	padding:0;
+	margin:0;
+	background: url('../img/Backgound/Family.jpg') no-repeat;
+	background-size: 100%;
+	background-attachment:fixed;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+.Container{
+	margin: auto;
+	width:80%;
+}
+
+/*---------------------------Global----------------------------------------------------------------------------*/
+
+/*---------------------------Header----------------------------------------------------------------------------*/
+header{
+	padding-top:20px;
+	min-height:30px;
+}
+header a{ 
+	color: white;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size:16px;
+}
+
+header li{
+	display:inline;
+	padding: 0 20px 0 20px; 
+	float:left;
+}
+
+header nav{
+	float:right;
+	margin-top: 15px;
+}
+
+header a:hover{
+	color: gray;
+}
+/*---------------------------Header----------------------------------------------------------------------------*/
+/*---------------------------Family----------------------------------------------------------------------------*/
+
+#PauloBOX{
+	color:white;
+	float: center;
+}
+
+#PauloBOX .Paulo{
+	float: left;
+	
+	width: 500px;
+	height: 750px;
+	border: 1px solid #ffffff;
+	background-color: #101010;
+	margin: 100px;
+	margin-top:500px;
+	margin-right:130px;
+	padding: 13px;
+	box-sizing: border-box;
+}
+#PauloBOX .Paulo .Image img{
+	float:center;
+	width: 300px;
+	height: 400px;
+	
+	margin-left:100px;
+	border: 1px solid #ffffff;
+}
+#PauloBOX .Paulo .title h1{
+	float:center;
+	font-size:35px;
+	
+	margin-left:120px;
+}
+#PauloBOX .Paulo .Words p{
+	font-size:18px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+
+#HanaBOX{
+	color:white;
+	float: center;
+}
+
+#HanaBOX .HANA{
+	float: Right;
+	
+	width: 500px;
+	height: 750px;
+	border: 1px solid #ffffff;
+	background-color: #101010;
+	margin: 100px;
+	margin-top:-850px;
+	margin-right:100px;
+	padding: 13px;
+	box-sizing: border-box;
+}
+#HanaBOX .HANA .Image img{
+	float:center;
+	width: 300px;
+	height: 400px;
+	
+	margin-left:100px;
+	border: 1px solid #ffffff;
+}
+#HanaBOX .HANA .title h1{
+	float:center;
+	font-size:35px;
+	
+	margin-left:120px;
+}
+#HANABOX .HANA .Words p{
+	font-size:18px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+
+#InayBOX{
+	color:white;
+	float: center;
+}
+
+#InayBOX .Inay{
+	float: left;
+	
+	width: 500px;
+	height: 750px;
+	border: 1px solid #ffffff;
+	background-color: #101010;
+	margin: 100px;
+	margin-top:-50px;
+	margin-right:130px;
+	padding: 13px;
+	box-sizing: border-box;
+}
+#InayBOX .Inay .Image img{
+	float:center;
+	width: 300px;
+	height: 400px;
+	
+	margin-left:100px;
+	border: 1px solid #ffffff;
+}
+#InayBOX .Inay .title h1{
+	float:center;
+	font-size:35px;
+	
+	margin-left:120px;
+}
+
+
+#ItayBOX{
+	color:white;
+	float: center;
+}
+
+#ItayBOX .Itay{
+	float: Right;
+	
+	width: 500px;
+	height: 750px;
+	border: 1px solid #ffffff;
+	background-color: #101010;
+	margin: 100px;
+	margin-top:-850px;
+	margin-right:100px;
+	padding: 13px;
+	box-sizing: border-box;
+}
+#ItayBOX .Itay .Image img{
+	float:center;
+	width: 300px;
+	height: 400px;
+	
+	margin-left:100px;
+	border: 1px solid #ffffff;
+}
+#ItayBOX .Itay .title h1{
+	float:center;
+	font-size:35px;
+	
+	margin-left:120px;
+}
+#ItayBOX .Itay .Words p{
+	font-size:18px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+/*---------------------------Family----------------------------------------------------------------------------*/
+
+/*---------------------------Footer----------------------------------------------------------------------------*/
+#footer{
+	color:white;
+	font-size: 20px; 
+	position: relative;
+	height:50px;
+	margin-top: -100px;
+	clear:both;
+	
+	margin-right:30px;
+}
+#footer .Follow p{
+	float:right;
+	margin-right:130px;
+}
+
+#footer .Facebook img{
+	float:right;
+	margin-right:-190px;
+	width:50px;
+	height:50px;
+	border: 1px solid #ffffff;
+}
+
+#footer .Gmail img{
+	float:right;
+	margin-right:-250px;
+	width:50px;
+	height:50px;
+	border: 1px solid #ffffff;
+}
+/*---------------------------Footer----------------------------------------------------------------------------*/
